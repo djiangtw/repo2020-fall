@@ -1,0 +1,2 @@
+- gcc -g l-2-add-two-numbers.c -o go
+- gdb go
