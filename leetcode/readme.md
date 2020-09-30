@@ -1,7 +1,8 @@
+# 簡單編測
 - gcc -g l-2-add-two-numbers.c -o go
 - gdb go
 
-# 100
+# #100
 - tree如何建立?
 - tree建立後如何刪除?
 - tree的大小、範圍、資料型態會不會造成程序執行不當?
