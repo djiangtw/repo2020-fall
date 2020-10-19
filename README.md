@@ -64,13 +64,62 @@
 - estimate the order of your algorithms. 不是只要沒問題的執行，還要執行的有效率!
 - test your estimates.
 - refactor early, refactor often.
+- design to test
+- test your software, or your users will.
+- don't use wizard code you don't understand.
+- don't gather requirements, dig for them.
+- work with a user to think like a user.
+- abstraction live longer than details.
+- use a project glossary.
+- don't thnk outside the box, find the box.
+- start when you're ready.
+- some things are better done than described.
+- don't be a slave to formal methods.
+- costly tools don't produce better designs.
+- organize teams around functionality.
+- don't use manual procedures.
+- test early, test often, test automatically. 不要浪費時間!有空常驗證!自動化驗證!
+- coding ain't done till all the tests run.
+- use saboteurs to test your testing. 抓罕見問題、確認軟體的健全!
+- test state coverage, not code coverage.
+- find bugs once.
+- english is just a programming language.
+- build documentation in, don't bolt it on. 做好習慣，根據文件來更新代碼!免得更新了代碼卻忘了文件。
+- gently exceed your users' expectations.
+- sign your work. 對自己的代碼負責
 
+## Wisdom
+```
+What do you want them to learn?
+What is their interest in what you've got to say
+How sophisticated are they?
+How much detail do they want?
+Whom do you want to own the information?
+How can you motivate them to listen to you?
+```
 
+## Prototyping
+- Arch
+- Features
+- Structures
+- 3rd party tools
+- performance
+- user interface if needed
 
+## hard problems
+- any easier solution?
+- are we solving the correct problem?
+- why is it a problem?
+- what make it a hard problem?
+- is it the only way to solve the problem?
+- should we need to solve it?
 
-
-
-
-
-
+## Testing
+- unit test
+- integration test
+- verification and validation
+- out of resource? error? recovery?
+- performance test
+- functional test
+- how to test?
 
