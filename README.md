@@ -15,3 +15,62 @@
 
 # Singly Linked List
 基本建立、刪除寫在#l-2裡
+
+# 程序猿修練之道
+- care about your craft.
+- thnk! about your work.
+- provide options, don't make lame excuses.
+- don't live with broken windows.
+- be a catalyst for change.
+- remember the big picture.
+- make quality a requirements issue. 讓你的客戶一起定義項目真正的需求!
+- invest regularly in your knowldege portfolio.
+- critically analyze what you read and hear.
+- it's both what you say and the way you say it.
+- don't repeat yourself.
+- make it easy to reuse.
+- eliminate effects between unrelated things.
+- there are no final decisions.
+- use tracer bullets to find the target. 隨時要檢查方向對不對!
+- prototype to learn. 建模來見識一下可能遇到的錯誤，吸取經驗。Model建置是要準還是要快? 這是一個好問題!
+- program close to the problem domain. 
+- estimate to avoid surprises. 除了估計，也要隨時檢查。
+- interate the schedule iwth the code.
+- keep knowledge in plain text.
+- use the power of command shells
+- use a single editor well
+- always use source code control
+- fix the problem, not the blame. "光"抱怨沒有用，問題還是要動手去解決!
+- don't panic when debugging. 輕鬆愉快的氣氛有助於除錯! 請考慮雇用加油打氣工程師(誤).
+- select isn't broken. Bug無所不在，多從各個面向的應用中去找，找到就是收穫.
+- don't assume it, prove it. 科學家精神，大膽假設，小心求證，用科學的方法去解釋。
+- learn a text manupulation language.
+- write code that write code. 代碼生成器! 好用!
+- you can't write perfect software. 只能儘量努力，起碼品質要堅若磐石
+- desogm wotj cpmtracts
+- crash early
+- use assertions to prevent the impossible
+- use exceptions for exceptoinal problems
+- finish what you start
+- minimuze coupling between modules.
+- configure, don't integrate. 能配置就不要集成。(用選項去設定，不要改代碼!!)
+- put abstractions in code, details in metadata. 細節放在參考文件，愈詳細愈好!
+- analyze workflow to improve concurrency.
+- design using services.
+- always design for concurrency.
+- separate views from models.
+- use blackboards to coordinate workflow. 很多工具可以用，好好用!
+- don't program by coincidence.
+- estimate the order of your algorithms. 不是只要沒問題的執行，還要執行的有效率!
+- test your estimates.
+- refactor early, refactor often.
+
+
+
+
+
+
+
+
+
+
